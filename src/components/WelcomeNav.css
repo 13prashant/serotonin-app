@@ -1,0 +1,9 @@
+.welcomeStyle {
+  display: flex;
+  justify-content: space-around;
+  background: #a463f2;
+}
+
+.thumbnail-img {
+  width: 260px;
+}

@@ -1,3 +1,7 @@
+.cardStyle {
+  background-color: white;
+}
+
 .cardStyle:hover {
   border: 1px solid #a463f2;
 }

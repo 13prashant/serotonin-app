@@ -4,7 +4,7 @@ import './Cake.css';
 function Cake() {
     return (
         <div>
-            <div className='cardStyle w5 dib ma3 shadow-1 br3 pa2 bg-white'>
+            <div className='cardStyle w5 ma3 br3 ba b--light-pink pa2'>
                 <img alt='cake-img' className='br3' src='https://www.handletheheat.com/wp-content/uploads/2015/03/Best-Birthday-Cake-with-milk-chocolate-buttercream-SQUARE.jpg' />
                 <div className='ma2'>
                     <p style={{ fontSize: '17px', fontWeight: 'bold' }}>Royal Chocolate</p>
@@ -22,7 +22,6 @@ function Cake() {
                     <div className="btnStyle ph3">
                         <a className="f6 link dim br1 ph3 pv2 dib white bg-light-purple" href="#">ADD</a>
                     </div>
-
                 </div>
             </div>
         </div>
